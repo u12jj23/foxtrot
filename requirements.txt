@@ -1,5 +1,9 @@
 pandas>=2.0.0
 openpyxl>=3.1.0
 xlrd>=2.0.1
-
+Django
+gunicorn
+whitenoise
 mailchimp-marketing>=3.0.0
+dj-database-url
+psycopg2-binary
